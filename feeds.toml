@@ -1,13 +1,11 @@
-[funfacts]
-title = "Wikipedia — did you know?"
-url = "https://en.wikipedia.org/wiki/Main_Page"
-entrySelector = "#mp-dyk > ul li"
-titleSelector = "b"
-linkSelector = "b a"
+[default]
+timeout = 30
 
-[wikivoyage]
-title = "Wikivoyage recommendations"
-url = "https://en.wikivoyage.org/wiki/Main_Page"
-entrySelector = ".jcarousel-wrapper .jcarousel-item"
+[npr-ukraine]
+title = "NPR Ukraine Recap"
+url = "https://www.npr.org/series/1084620843/russia-ukraine-recap"
+entrySelector = "article"
 titleSelector = "h2"
 linkSelector = "h2 a"
+contentSelector = ".teaser"
+dateSelector = ".teaser time"

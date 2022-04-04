@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://willlma.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-03T17:40:26.337Z</updated>
+    <updated>2022-04-04T05:38:56.413Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Russia-Ukraine war: What happened today (April 3) (NPR Ukraine Recap)]]></title>
+        <id>https://www.npr.org/2022/04/03/1090521721/russia-ukraine-war-what-happened-today-april-3</id>
+        <link href="https://www.npr.org/2022/04/03/1090521721/russia-ukraine-war-what-happened-today-april-3"/>
+        <updated>2022-04-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.npr.org/2022/04/03/1090521721/russia-ukraine-war-what-happened-today-april-3"><time datetime="2022-04-03"><span class="date">April 3, 2022 • </span></time>A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Russia-Ukraine war: What happened today (April 2) (NPR Ukraine Recap)]]></title>
         <id>https://www.npr.org/2022/04/02/1090471297/russia-ukraine-war-what-happened-today-april-2</id>
@@ -150,12 +157,5 @@
         <link href="https://www.npr.org/2022/03/13/1086365144/russia-ukraine-war-what-happened-today-march-13"/>
         <updated>2022-03-13T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="https://www.npr.org/2022/03/13/1086365144/russia-ukraine-war-what-happened-today-march-13"><time datetime="2022-03-13"><span class="date">March 13, 2022 • </span></time>A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russia-Ukraine war: What happened today (March 12) (NPR Ukraine Recap)]]></title>
-        <id>https://www.npr.org/2022/03/12/1086298809/russia-ukraine-war-what-happened-today-march-12</id>
-        <link href="https://www.npr.org/2022/03/12/1086298809/russia-ukraine-war-what-happened-today-march-12"/>
-        <updated>2022-03-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.npr.org/2022/03/12/1086298809/russia-ukraine-war-what-happened-today-march-12"><time datetime="2022-03-12"><span class="date">March 12, 2022 • </span></time>A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine.</a>]]></content>
     </entry>
 </feed>

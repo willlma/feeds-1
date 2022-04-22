@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://willlma.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-21T17:49:52.948Z</updated>
+    <updated>2022-04-22T05:54:57.544Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Russia-Ukraine war: What happened today (April 21) (NPR Ukraine Recap)]]></title>
+        <id>https://www.npr.org/2022/04/21/1094003595/russia-ukraine-war-what-happened-today-april-21</id>
+        <link href="https://www.npr.org/2022/04/21/1094003595/russia-ukraine-war-what-happened-today-april-21"/>
+        <updated>2022-04-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.npr.org/2022/04/21/1094003595/russia-ukraine-war-what-happened-today-april-21"><time datetime="2022-04-21"><span class="date">April 21, 2022 • </span></time>A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Russia-Ukraine war: What happened today (April 20) (NPR Ukraine Recap)]]></title>
         <id>https://www.npr.org/2022/04/20/1093744421/russia-ukraine-war-what-happened-today-april-20</id>
@@ -150,12 +157,5 @@
         <link href="https://www.npr.org/2022/03/31/1089901159/russia-ukraine-war-what-happened-today-march-31"/>
         <updated>2022-03-31T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="https://www.npr.org/2022/03/31/1089901159/russia-ukraine-war-what-happened-today-march-31"><time datetime="2022-03-31"><span class="date">March 31, 2022 • </span></time>A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russia-Ukraine war: What happened today (March 30) (NPR Ukraine Recap)]]></title>
-        <id>https://www.npr.org/2022/03/30/1089721115/russia-ukraine-war-what-happened-today-march-30</id>
-        <link href="https://www.npr.org/2022/03/30/1089721115/russia-ukraine-war-what-happened-today-march-30"/>
-        <updated>2022-03-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.npr.org/2022/03/30/1089721115/russia-ukraine-war-what-happened-today-march-30"><time datetime="2022-03-30"><span class="date">March 30, 2022 • </span></time>A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine.</a>]]></content>
     </entry>
 </feed>

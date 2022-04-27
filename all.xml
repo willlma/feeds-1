@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://willlma.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-26T17:44:50.567Z</updated>
+    <updated>2022-04-27T05:47:02.352Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Russia-Ukraine war: What happened today (April 26) (NPR Ukraine Recap)]]></title>
+        <id>https://www.npr.org/2022/04/26/1094782766/russia-ukraine-war-what-happened-today-april-26</id>
+        <link href="https://www.npr.org/2022/04/26/1094782766/russia-ukraine-war-what-happened-today-april-26"/>
+        <updated>2022-04-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.npr.org/2022/04/26/1094782766/russia-ukraine-war-what-happened-today-april-26"><time datetime="2022-04-26"><span class="date">April 26, 2022 • </span></time>A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Russia-Ukraine war: What happened today (April 25) (NPR Ukraine Recap)]]></title>
         <id>https://www.npr.org/2022/04/25/1094609365/russia-ukraine-war-what-happened-today-april-25</id>
@@ -150,12 +157,5 @@
         <link href="https://www.npr.org/2022/04/05/1091079567/russia-ukraine-war-what-happened-today-april-5"/>
         <updated>2022-04-05T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="https://www.npr.org/2022/04/05/1091079567/russia-ukraine-war-what-happened-today-april-5"><time datetime="2022-04-05"><span class="date">April 5, 2022 • </span></time>A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russia-Ukraine war: What happened today (April 4) (NPR Ukraine Recap)]]></title>
-        <id>https://www.npr.org/2022/04/04/1090851859/russia-ukraine-war-what-happened-today-april-4</id>
-        <link href="https://www.npr.org/2022/04/04/1090851859/russia-ukraine-war-what-happened-today-april-4"/>
-        <updated>2022-04-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.npr.org/2022/04/04/1090851859/russia-ukraine-war-what-happened-today-april-4"><time datetime="2022-04-04"><span class="date">April 4, 2022 • </span></time>A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine.</a>]]></content>
     </entry>
 </feed>

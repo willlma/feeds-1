@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://willlma.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-22T17:49:41.442Z</updated>
+    <updated>2022-06-23T05:43:04.850Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Russia-Ukraine war: What happened today (June 22) (NPR Ukraine Recap)]]></title>
+        <id>https://www.npr.org/2022/06/22/1106671111/russia-ukraine-war-what-happened-today-june-22</id>
+        <link href="https://www.npr.org/2022/06/22/1106671111/russia-ukraine-war-what-happened-today-june-22"/>
+        <updated>2022-06-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.npr.org/2022/06/22/1106671111/russia-ukraine-war-what-happened-today-june-22"><time datetime="2022-06-22"><span class="date">June 22, 2022 • </span></time>A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Russia-Ukraine war: What happened today (June 21) (NPR Ukraine Recap)]]></title>
         <id>https://www.npr.org/2022/06/21/1106345586/russia-ukraine-war-what-happened-today-june-21</id>
@@ -150,12 +157,5 @@
         <link href="https://www.npr.org/2022/05/24/1100986158/3-months-into-the-russia-ukraine-war-what-happened-today-may-24"/>
         <updated>2022-05-24T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="https://www.npr.org/2022/05/24/1100986158/3-months-into-the-russia-ukraine-war-what-happened-today-may-24"><time datetime="2022-05-24"><span class="date">May 24, 2022 • </span></time>A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russia-Ukraine war: What happened today (May 23) (NPR Ukraine Recap)]]></title>
-        <id>https://www.npr.org/2022/05/23/1100808777/russia-ukraine-war-what-happened-today-may-23</id>
-        <link href="https://www.npr.org/2022/05/23/1100808777/russia-ukraine-war-what-happened-today-may-23"/>
-        <updated>2022-05-23T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.npr.org/2022/05/23/1100808777/russia-ukraine-war-what-happened-today-may-23"><time datetime="2022-05-23"><span class="date">May 23, 2022 • </span></time>A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine.</a>]]></content>
     </entry>
 </feed>

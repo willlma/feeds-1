@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://willlma.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-29T18:01:56.086Z</updated>
+    <updated>2022-06-30T05:44:24.303Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Russia-Ukraine war: What happened today (June 29) (NPR Ukraine Recap)]]></title>
+        <id>https://www.npr.org/2022/06/29/1108539398/russia-ukraine-war-what-happened-today-june-29</id>
+        <link href="https://www.npr.org/2022/06/29/1108539398/russia-ukraine-war-what-happened-today-june-29"/>
+        <updated>2022-06-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.npr.org/2022/06/29/1108539398/russia-ukraine-war-what-happened-today-june-29"><time datetime="2022-06-29"><span class="date">June 29, 2022 • </span></time>A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Russia-Ukraine war: What happened today (June 28) (NPR Ukraine Recap)]]></title>
         <id>https://www.npr.org/2022/06/28/1108165295/russia-ukraine-war-what-happened-today-june-28</id>
@@ -150,12 +157,5 @@
         <link href="https://www.npr.org/2022/06/01/1102352611/russia-ukraine-war-what-happened-today-june-1"/>
         <updated>2022-06-01T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="https://www.npr.org/2022/06/01/1102352611/russia-ukraine-war-what-happened-today-june-1"><time datetime="2022-06-01"><span class="date">June 1, 2022 • </span></time>A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russia-Ukraine war: What happened today (May 31) (NPR Ukraine Recap)]]></title>
-        <id>https://www.npr.org/2022/05/31/1102166665/russia-ukraine-war-what-happened-today-may-31</id>
-        <link href="https://www.npr.org/2022/05/31/1102166665/russia-ukraine-war-what-happened-today-may-31"/>
-        <updated>2022-05-31T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.npr.org/2022/05/31/1102166665/russia-ukraine-war-what-happened-today-may-31"><time datetime="2022-05-31"><span class="date">May 31, 2022 • </span></time>A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine.</a>]]></content>
     </entry>
 </feed>

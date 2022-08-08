@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://willlma.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-08T05:43:02.962Z</updated>
+    <updated>2022-08-08T17:45:10.383Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Russia-Ukraine war: A weekly recap and look ahead (Aug. 8) (NPR Ukraine Recap)]]></title>
+        <id>https://www.npr.org/2022/08/08/1114327845/russia-ukraine-war-a-weekly-recap-and-look-ahead-aug-8</id>
+        <link href="https://www.npr.org/2022/08/08/1114327845/russia-ukraine-war-a-weekly-recap-and-look-ahead-aug-8"/>
+        <updated>2022-08-08T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.npr.org/2022/08/08/1114327845/russia-ukraine-war-a-weekly-recap-and-look-ahead-aug-8"><time datetime="2022-08-08"><span class="date">August 8, 2022 • </span></time>Catch up on key developments and the latest in-depth coverage of Russia's invasion of Ukraine.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Russia-Ukraine war: A weekly recap and look ahead (Aug. 1) (NPR Ukraine Recap)]]></title>
         <id>https://www.npr.org/2022/08/01/1112244264/russia-ukraine-war-a-weekly-recap-and-look-ahead-aug-1</id>
@@ -150,12 +157,5 @@
         <link href="https://www.npr.org/2022/06/09/1103832670/russia-ukraine-war-what-happened-today-june-9"/>
         <updated>2022-06-09T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="https://www.npr.org/2022/06/09/1103832670/russia-ukraine-war-what-happened-today-june-9"><time datetime="2022-06-09"><span class="date">June 9, 2022 • </span></time>A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russia-Ukraine war: What happened today (June 8) (NPR Ukraine Recap)]]></title>
-        <id>https://www.npr.org/2022/06/08/1103663784/russia-ukraine-war-what-happened-today-june-8</id>
-        <link href="https://www.npr.org/2022/06/08/1103663784/russia-ukraine-war-what-happened-today-june-8"/>
-        <updated>2022-06-08T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.npr.org/2022/06/08/1103663784/russia-ukraine-war-what-happened-today-june-8"><time datetime="2022-06-08"><span class="date">June 8, 2022 • </span></time>A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine.</a>]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.npr.org/series/1084620843/russia-ukraine-recap</id>
     <title>NPR Ukraine Recap</title>
-    <updated>2022-10-19T18:07:34.900Z</updated>
+    <updated>2022-10-20T06:00:28.685Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static-assets.npr.org/static/images/favicon/favicon-96x96.png</icon>
     <entry>
@@ -53,13 +53,6 @@
         <link href="https://www.npr.org/2022/09/05/1119926980/russia-ukraine-war-a-weekly-recap-and-look-ahead-sept-5"/>
         <updated>2022-09-05T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="https://www.npr.org/2022/09/05/1119926980/russia-ukraine-war-a-weekly-recap-and-look-ahead-sept-5"><time datetime="2022-09-05"><span class="date">September 5, 2022 • </span></time>Catch up on key developments and the latest in-depth coverage of Russia's invasion of Ukraine.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russia-Ukraine war: A weekly recap and look ahead (Aug. 29)]]></title>
-        <id>https://www.npr.org/2022/08/29/1118820771/russia-ukraine-war-a-weekly-recap-and-look-ahead-aug-29</id>
-        <link href="https://www.npr.org/2022/08/29/1118820771/russia-ukraine-war-a-weekly-recap-and-look-ahead-aug-29"/>
-        <updated>2022-08-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.npr.org/2022/08/29/1118820771/russia-ukraine-war-a-weekly-recap-and-look-ahead-aug-29"><time datetime="2022-08-29"><span class="date">August 29, 2022 • </span></time>Catch up on key developments and the latest in-depth coverage of Russia's invasion of Ukraine.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Russia-Ukraine war: A weekly recap and look ahead (Aug. 22)]]></title>
@@ -158,5 +151,12 @@
         <link href="https://www.npr.org/2022/06/23/1106977208/russia-ukraine-war-what-happened-today-june-23"/>
         <updated>2022-06-23T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="https://www.npr.org/2022/06/23/1106977208/russia-ukraine-war-what-happened-today-june-23"><time datetime="2022-06-23"><span class="date">June 23, 2022 • </span></time>A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russia-Ukraine war: What happened today (June 22)]]></title>
+        <id>https://www.npr.org/2022/06/22/1106671111/russia-ukraine-war-what-happened-today-june-22</id>
+        <link href="https://www.npr.org/2022/06/22/1106671111/russia-ukraine-war-what-happened-today-june-22"/>
+        <updated>2022-06-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.npr.org/2022/06/22/1106671111/russia-ukraine-war-what-happened-today-june-22"><time datetime="2022-06-22"><span class="date">June 22, 2022 • </span></time>A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine.</a>]]></content>
     </entry>
 </feed>

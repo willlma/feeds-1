@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://willlma.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-31T05:53:32.862Z</updated>
+    <updated>2022-10-31T17:59:56.476Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Ukraine war updates: Russia drops grain deal, claiming drones hit its ships (Oct. 31) (NPR Ukraine Recap)]]></title>
+        <id>https://www.npr.org/2022/10/31/1131722195/russia-ukraine-war-updates-grain-deal-drone-strikes-oct-31</id>
+        <link href="https://www.npr.org/2022/10/31/1131722195/russia-ukraine-war-updates-grain-deal-drone-strikes-oct-31"/>
+        <updated>2022-10-31T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.npr.org/2022/10/31/1131722195/russia-ukraine-war-updates-grain-deal-drone-strikes-oct-31"><time datetime="2022-10-31"><span class="date">October 31, 2022 • </span></time>Catch up on key developments and the latest in-depth coverage of Russia's invasion of Ukraine.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ukraine war updates: Russia hits power grid, Iran accused of stepping in (Oct. 24) (NPR Ukraine Recap)]]></title>
         <id>https://www.npr.org/2022/10/24/1129700805/russia-ukraine-war-updates-iran-drones-power-grid-oct-24</id>
@@ -150,12 +157,5 @@
         <link href="https://www.npr.org/2022/06/27/1107764783/russia-ukraine-war-what-happened-today-june-27"/>
         <updated>2022-06-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="https://www.npr.org/2022/06/27/1107764783/russia-ukraine-war-what-happened-today-june-27"><time datetime="2022-06-27"><span class="date">June 27, 2022 • </span></time>A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4 months into the Russia-Ukraine war: What happened today (June 24) (NPR Ukraine Recap)]]></title>
-        <id>https://www.npr.org/2022/06/24/1107158554/4-months-into-the-russia-ukraine-war-what-happened-today-june-24</id>
-        <link href="https://www.npr.org/2022/06/24/1107158554/4-months-into-the-russia-ukraine-war-what-happened-today-june-24"/>
-        <updated>2022-06-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.npr.org/2022/06/24/1107158554/4-months-into-the-russia-ukraine-war-what-happened-today-june-24"><time datetime="2022-06-24"><span class="date">June 24, 2022 • </span></time>A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine.</a>]]></content>
     </entry>
 </feed>

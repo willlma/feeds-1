@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://willlma.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-21T05:40:17.720Z</updated>
+    <updated>2022-11-21T17:42:05.769Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Latest on Ukraine: Kherson revives as war rounds 9th month (Nov. 21) (NPR Ukraine Recap)]]></title>
+        <id>https://www.npr.org/2022/11/21/1138153696/latest-on-ukraine-kherson-revives-as-war-rounds-9th-month-nov-21</id>
+        <link href="https://www.npr.org/2022/11/21/1138153696/latest-on-ukraine-kherson-revives-as-war-rounds-9th-month-nov-21"/>
+        <updated>2022-11-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.npr.org/2022/11/21/1138153696/latest-on-ukraine-kherson-revives-as-war-rounds-9th-month-nov-21"><time datetime="2022-11-21"><span class="date">November 21, 2022 • </span></time>Catch up on key developments and the latest in-depth coverage of Russia's invasion of Ukraine.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Latest on Ukraine: Russia's retreat from Kherson gives Ukraine renewed hope (Nov. 14) (NPR Ukraine Recap)]]></title>
         <id>https://www.npr.org/2022/11/14/1135094139/russia-ukraine-war-latest-kherson-nov-14</id>
@@ -150,12 +157,5 @@
         <link href="https://www.npr.org/2022/06/30/1108887826/russia-ukraine-war-what-happened-today-june-30"/>
         <updated>2022-06-30T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="https://www.npr.org/2022/06/30/1108887826/russia-ukraine-war-what-happened-today-june-30"><time datetime="2022-06-30"><span class="date">June 30, 2022 • </span></time>A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russia-Ukraine war: What happened today (June 29) (NPR Ukraine Recap)]]></title>
-        <id>https://www.npr.org/2022/06/29/1108539398/russia-ukraine-war-what-happened-today-june-29</id>
-        <link href="https://www.npr.org/2022/06/29/1108539398/russia-ukraine-war-what-happened-today-june-29"/>
-        <updated>2022-06-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.npr.org/2022/06/29/1108539398/russia-ukraine-war-what-happened-today-june-29"><time datetime="2022-06-29"><span class="date">June 29, 2022 • </span></time>A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine.</a>]]></content>
     </entry>
 </feed>

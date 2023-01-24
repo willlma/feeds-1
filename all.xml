@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://willlma.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-23T17:38:05.259Z</updated>
+    <updated>2023-01-24T05:37:32.265Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Latest on Ukraine: Waiting for Germany's Leopard tanks (Jan. 23) (NPR Ukraine Recap)]]></title>
@@ -82,13 +82,6 @@
         <content type="html"><![CDATA[<a href="https://www.npr.org/2022/10/24/1129700805/russia-ukraine-war-updates-iran-drones-power-grid-oct-24"><time datetime="2022-10-24"><span class="date">October 24, 2022 • </span></time>As Russia's large-scale invasion of Ukraine hits the eight-month mark, here's a look at key developments and the latest in-depth coverage of the war.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ukraine war updates: Russia strikes Kyiv as Russian troops move into Belarus (Oct. 17) (NPR Ukraine Recap)]]></title>
-        <id>https://www.npr.org/2022/10/17/1126766074/russia-ukraine-war-updates-kyiv-belarus-unga-oct-17</id>
-        <link href="https://www.npr.org/2022/10/17/1126766074/russia-ukraine-war-updates-kyiv-belarus-unga-oct-17"/>
-        <updated>2022-10-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.npr.org/2022/10/17/1126766074/russia-ukraine-war-updates-kyiv-belarus-unga-oct-17"><time datetime="2022-10-17"><span class="date">October 17, 2022 • </span></time>Catch up on key developments and the latest in-depth coverage of Russia's invasion of Ukraine.</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ukraine war updates: Russia retreats from a key city it just claimed to annex (Oct. 3) (NPR Ukraine Recap)]]></title>
         <id>https://www.npr.org/2022/10/03/1125712495/russia-ukraine-war-recap-oct-3</id>
         <link href="https://www.npr.org/2022/10/03/1125712495/russia-ukraine-war-recap-oct-3"/>
@@ -157,5 +150,12 @@
         <link href="https://www.npr.org/2022/08/08/1114327845/russia-ukraine-war-a-weekly-recap-and-look-ahead-aug-8"/>
         <updated>2022-08-08T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="https://www.npr.org/2022/08/08/1114327845/russia-ukraine-war-a-weekly-recap-and-look-ahead-aug-8"><time datetime="2022-08-08"><span class="date">August 8, 2022 • </span></time>Catch up on key developments and the latest in-depth coverage of Russia's invasion of Ukraine.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russia-Ukraine war: A weekly recap and look ahead (Aug. 1) (NPR Ukraine Recap)]]></title>
+        <id>https://www.npr.org/2022/08/01/1112244264/russia-ukraine-war-a-weekly-recap-and-look-ahead-aug-1</id>
+        <link href="https://www.npr.org/2022/08/01/1112244264/russia-ukraine-war-a-weekly-recap-and-look-ahead-aug-1"/>
+        <updated>2022-08-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.npr.org/2022/08/01/1112244264/russia-ukraine-war-a-weekly-recap-and-look-ahead-aug-1"><time datetime="2022-08-01"><span class="date">August 1, 2022 • </span></time>A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine.</a>]]></content>
     </entry>
 </feed>

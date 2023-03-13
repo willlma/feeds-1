@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://willlma.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-13T05:37:41.209Z</updated>
+    <updated>2023-03-13T17:38:05.064Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Latest in Ukraine: Expectations are growing for China's Xi Jinping to visit Russia (NPR Ukraine Recap)]]></title>
+        <id>https://www.npr.org/2023/03/13/1161980660/russia-ukraine-war-news-latest-march-13</id>
+        <link href="https://www.npr.org/2023/03/13/1161980660/russia-ukraine-war-news-latest-march-13"/>
+        <updated>2023-03-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.npr.org/2023/03/13/1161980660/russia-ukraine-war-news-latest-march-13"><time datetime="2023-03-13"><span class="date">March 13, 2023 • </span></time>Catch up on key developments and the latest in-depth coverage of Russia's invasion of Ukraine.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Latest in Ukraine: All eyes on Bakhmut as Russia fights to take it over (March 6) (NPR Ukraine Recap)]]></title>
         <id>https://www.npr.org/2023/03/06/1160580230/russia-ukraine-war-news-march-6</id>
@@ -150,12 +157,5 @@
         <link href="https://www.npr.org/2022/09/19/1122675696/russia-ukraine-war-updates-putin-met-xi-mass-grave-izium-sept-19"/>
         <updated>2022-09-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="https://www.npr.org/2022/09/19/1122675696/russia-ukraine-war-updates-putin-met-xi-mass-grave-izium-sept-19"><time datetime="2022-09-19"><span class="date">September 19, 2022 • </span></time>Catch up on key developments and the latest in-depth coverage of Russia's invasion of Ukraine.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The week in Ukraine: Russia loses ground, and the U.S. sends more aid (Sept. 12) (NPR Ukraine Recap)]]></title>
-        <id>https://www.npr.org/2022/09/12/1121300596/russia-ukraine-war-a-weekly-recap-and-look-ahead-sept-12</id>
-        <link href="https://www.npr.org/2022/09/12/1121300596/russia-ukraine-war-a-weekly-recap-and-look-ahead-sept-12"/>
-        <updated>2022-09-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.npr.org/2022/09/12/1121300596/russia-ukraine-war-a-weekly-recap-and-look-ahead-sept-12"><time datetime="2022-09-12"><span class="date">September 12, 2022 • </span></time>Catch up on key developments and the latest in-depth coverage of Russia's invasion of Ukraine.</a>]]></content>
     </entry>
 </feed>

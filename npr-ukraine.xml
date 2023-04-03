@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.npr.org/series/1084620843/russia-ukraine-recap</id>
     <title>NPR Ukraine Recap</title>
-    <updated>2023-04-03T05:39:33.716Z</updated>
+    <updated>2023-04-03T17:37:39.730Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static-assets.npr.org/static/images/favicon/favicon-96x96.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Latest on Ukraine: Russia jails a U.S. reporter, Finland to join NATO and more]]></title>
+        <id>https://www.npr.org/2023/04/03/1166438347/russia-ukraine-war-news-updates</id>
+        <link href="https://www.npr.org/2023/04/03/1166438347/russia-ukraine-war-news-updates"/>
+        <updated>2023-04-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.npr.org/2023/04/03/1166438347/russia-ukraine-war-news-updates"><time datetime="2023-04-03"><span class="date">April 3, 2023 • </span></time>Catch up on key developments and the latest in-depth coverage of Russia's invasion of Ukraine.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Latest in Ukraine: Putin will move tactical nuclear weapons into Belarus (March 27)]]></title>
         <id>https://www.npr.org/2023/03/27/1164957044/russia-ukraine-war-news-latest-updates-march-27</id>
@@ -151,12 +158,5 @@
         <link href="https://www.npr.org/2022/10/03/1125712495/russia-ukraine-war-recap-oct-3"/>
         <updated>2022-10-03T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="https://www.npr.org/2022/10/03/1125712495/russia-ukraine-war-recap-oct-3"><time datetime="2022-10-03"><span class="date">October 3, 2022 • </span></time>Catch up on key developments and the latest in-depth coverage of Russia's invasion of Ukraine.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ukraine war updates: Regions vote on joining Russia, Putin orders a draft (Sept. 26)]]></title>
-        <id>https://www.npr.org/2022/09/26/1124114574/ukraine-war-updates-regions-vote-on-joining-russia-putin-orders-a-draft-sept-26</id>
-        <link href="https://www.npr.org/2022/09/26/1124114574/ukraine-war-updates-regions-vote-on-joining-russia-putin-orders-a-draft-sept-26"/>
-        <updated>2022-09-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.npr.org/2022/09/26/1124114574/ukraine-war-updates-regions-vote-on-joining-russia-putin-orders-a-draft-sept-26"><time datetime="2022-09-26"><span class="date">September 26, 2022 • </span></time>Catch up on key developments and the latest in-depth coverage of Russia's invasion of Ukraine.</a>]]></content>
     </entry>
 </feed>

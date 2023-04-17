@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://willlma.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-17T05:37:50.427Z</updated>
+    <updated>2023-04-17T17:37:52.704Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Latest on Ukraine: Russia's prisoners, Brazil's diplomacy, the fight for Bakhmut (NPR Ukraine Recap)]]></title>
+        <id>https://www.npr.org/2023/04/17/1169216781/russia-ukraine-war-news-april-17</id>
+        <link href="https://www.npr.org/2023/04/17/1169216781/russia-ukraine-war-news-april-17"/>
+        <updated>2023-04-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.npr.org/2023/04/17/1169216781/russia-ukraine-war-news-april-17"><time datetime="2023-04-17"><span class="date">April 17, 2023 • </span></time>Catch up on key developments and the latest in-depth coverage of Russia's invasion of Ukraine.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Latest on Ukraine: Pentagon leaks, France's overtures in China and Finland in NATO (NPR Ukraine Recap)]]></title>
         <id>https://www.npr.org/2023/04/10/1167921167/russia-ukraine-war-news-april-10</id>
@@ -150,12 +157,5 @@
         <link href="https://www.npr.org/2022/10/24/1129700805/russia-ukraine-war-updates-iran-drones-power-grid-oct-24"/>
         <updated>2022-10-24T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="https://www.npr.org/2022/10/24/1129700805/russia-ukraine-war-updates-iran-drones-power-grid-oct-24"><time datetime="2022-10-24"><span class="date">October 24, 2022 • </span></time>As Russia's large-scale invasion of Ukraine hits the eight-month mark, here's a look at key developments and the latest in-depth coverage of the war.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ukraine war updates: Russia strikes Kyiv as Russian troops move into Belarus (Oct. 17) (NPR Ukraine Recap)]]></title>
-        <id>https://www.npr.org/2022/10/17/1126766074/russia-ukraine-war-updates-kyiv-belarus-unga-oct-17</id>
-        <link href="https://www.npr.org/2022/10/17/1126766074/russia-ukraine-war-updates-kyiv-belarus-unga-oct-17"/>
-        <updated>2022-10-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.npr.org/2022/10/17/1126766074/russia-ukraine-war-updates-kyiv-belarus-unga-oct-17"><time datetime="2022-10-17"><span class="date">October 17, 2022 • </span></time>Catch up on key developments and the latest in-depth coverage of Russia's invasion of Ukraine.</a>]]></content>
     </entry>
 </feed>

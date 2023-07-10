@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://willlma.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-10T05:35:48.746Z</updated>
+    <updated>2023-07-10T17:35:53.585Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Week in Ukraine: NATO meets as Russia's war blows past 500 days (NPR Ukraine Recap)]]></title>
+        <id>https://www.npr.org/2023/07/10/1185995394/russia-ukraine-war-news-nato</id>
+        <link href="https://www.npr.org/2023/07/10/1185995394/russia-ukraine-war-news-nato"/>
+        <updated>2023-07-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.npr.org/2023/07/10/1185995394/russia-ukraine-war-news-nato"><time datetime="2023-07-10"><span class="date">July 10, 2023 • </span></time>Catch up on key developments and the latest in-depth coverage of Russia's invasion of Ukraine.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week in Russia-Ukraine: Wagner mutiny rattles Moscow, as counteroffensive creeps along (NPR Ukraine Recap)]]></title>
         <id>https://www.npr.org/2023/07/03/1184501576/russia-ukraine-war-news</id>
@@ -150,12 +157,5 @@
         <link href="https://www.npr.org/2023/01/23/1150330359/russia-ukraine-war-latest-news-jan-23"/>
         <updated>2023-01-23T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="https://www.npr.org/2023/01/23/1150330359/russia-ukraine-war-latest-news-jan-23"><time datetime="2023-01-23"><span class="date">January 23, 2023 • </span></time>Catch up on key developments and the latest in-depth coverage of Russia's invasion of Ukraine.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Latest on Ukraine: The Russian Christmas cease-fire that wasn't (NPR Ukraine Recap)]]></title>
-        <id>https://www.npr.org/2023/01/09/1146899579/russia-ukraine-war-news-jan-9</id>
-        <link href="https://www.npr.org/2023/01/09/1146899579/russia-ukraine-war-news-jan-9"/>
-        <updated>2023-01-09T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.npr.org/2023/01/09/1146899579/russia-ukraine-war-news-jan-9"><time datetime="2023-01-09"><span class="date">January 9, 2023 • </span></time>Catch up on key developments and the latest in-depth coverage of Russia's invasion of Ukraine.</a>]]></content>
     </entry>
 </feed>

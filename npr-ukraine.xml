@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.npr.org/series/1084620843/russia-ukraine-recap</id>
     <title>NPR Ukraine Recap</title>
-    <updated>2023-10-02T05:34:33.852Z</updated>
+    <updated>2023-10-02T17:34:46.467Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://media.npr.org/chrome/favicon/favicon-96x96.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Latest on Ukraine: U.S. aid stumbles and Slovakia elects a pro-Russia leader]]></title>
+        <id>https://www.npr.org/2023/10/02/1202278461/russia-ukraine-war-news</id>
+        <link href="https://www.npr.org/2023/10/02/1202278461/russia-ukraine-war-news"/>
+        <updated>2023-10-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.npr.org/2023/10/02/1202278461/russia-ukraine-war-news"><time datetime="2023-10-02"><span class="date">October 2, 2023 • </span></time>Catch up on key developments and the latest in-depth coverage of Russia's invasion of Ukraine.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Latest on Ukraine: China's foreign minister visits Russia after Kim Jong Un's trip]]></title>
         <id>https://www.npr.org/2023/09/18/1199501170/russia-ukraine-war-news</id>
@@ -151,12 +158,5 @@
         <link href="https://www.npr.org/2023/04/10/1167921167/russia-ukraine-war-news-april-10"/>
         <updated>2023-04-10T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="https://www.npr.org/2023/04/10/1167921167/russia-ukraine-war-news-april-10"><time datetime="2023-04-10"><span class="date">April 10, 2023 • </span></time>Catch up on key developments and the latest in-depth coverage of Russia's invasion of Ukraine.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Latest on Ukraine: Russia jails a U.S. reporter, Finland joins NATO and more]]></title>
-        <id>https://www.npr.org/2023/04/03/1166438347/russia-ukraine-war-news-updates</id>
-        <link href="https://www.npr.org/2023/04/03/1166438347/russia-ukraine-war-news-updates"/>
-        <updated>2023-04-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.npr.org/2023/04/03/1166438347/russia-ukraine-war-news-updates"><time datetime="2023-04-03"><span class="date">April 3, 2023 • </span></time>Catch up on key developments and the latest in-depth coverage of Russia's invasion of Ukraine.</a>]]></content>
     </entry>
 </feed>
